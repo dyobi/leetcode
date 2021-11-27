@@ -6,9 +6,7 @@
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        res = []
-        for first in nums :
-            for second in nums :
-                if (first != second and first + second == target) :
-                    res.extend([nums.index(first), nums.index(second)])
-                    return res
+        for i in range(len(nums)) :
+            rest = target - nums[i]
+            if (rest in nums and nums.index(rest) != i) :
+                return [i, nums.index(rest)]
