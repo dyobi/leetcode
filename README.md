@@ -4,6 +4,6 @@
 
 # LEETCODE
 
-> <a href="www.leetcode.com" target="_blank">`www.leetcode.com`</a>
+> <a href="https://leetcode.com/problemset/all/" target="_blank">`www.leetcode.com`</a>
 
 > Solving algorithm problems
