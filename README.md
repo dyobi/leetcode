@@ -7,3 +7,5 @@
 > <a href="https://leetcode.com/problemset/all/" target="_blank">`www.leetcode.com`</a>
 
 > Solving algorithm problems
+
+> Python3 practice
